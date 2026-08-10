@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.Dh6celcD.mjs";function t(e,t){return{description:`Product Designer`,favicon:`assets/images/image-bundle-12.png`,robots:`max-image-preview:large`,title:`Jeevan Crasta - Portfolio`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=shared-lib.DqTezyhy.mjs.map
